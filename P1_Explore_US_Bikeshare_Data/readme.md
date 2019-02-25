@@ -1,3 +1,7 @@
+Explore US Bikeshare Data
+
+This folder contains the files for the Udacity Data Analyst Project "Explore US Bikeshare Data". 
+
 Sources / References:
 1. Include Variables in filenames:
 	https://stackoverflow.com/questions/15311624/include-changing-variables-into-name-of-output-file-in-python

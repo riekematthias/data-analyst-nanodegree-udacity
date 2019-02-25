@@ -1,4 +1,21 @@
-Source:
+Explore and Summarize Data
+
+This folder contains the files for the Udacity Data Analyst Project "Explore and Summarize Data".
+
+Dataset used: wineQualityWhites
+Libraries used:
+ggplot2
+GGally
+dplyr
+memisc
+DAAG
+Simpsons
+pander
+lazyeval
+corrplot
+RColorBrewer
+
+Sources used:
 - adjusting correlation matrix: https://stackoverflow.com/questions/40509217/how-to-have-r-corrplot-title-position-correct
 - visualize correlation matrix: http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
 - boxplots with ggplot: http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
