@@ -1,3 +1,7 @@
+Test a perceptual phenomenon
+
+This folder contains the files for the Udacity Data Analyst Nanodegree Project "Test a perceptual phenomenon".
+
 Sources:
 - Information on cognitive dissonance: https://en.wikipedia.org/wiki/Cognitive_dissonance
 - Information on numerical stroop test: https://en.wikipedia.org/wiki/Numerical_Stroop_effect
