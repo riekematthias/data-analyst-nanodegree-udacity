@@ -1,3 +1,8 @@
+Investigate Tmdb Movie Dataset
+
+This folder contains the files needed for the Udacity Data Analyst Nanodegree Project "Investigate a Dataset".
+
+Sources:
 Get row which contains max value in a given column:
 *  https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.idxmax.html
 * https://stackoverflow.com/questions/10202570/pandas-dataframe-find-row-where-values-for-column-is-maximal
